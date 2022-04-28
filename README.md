@@ -1,16 +1,17 @@
 ### Hi there 👋
+I'm Lais Riquieri, I'm degree in Systems Analysis and Development, I participated in the life cycle of products in various niches and stages, from startups in early stages, through growing startups, to large companies with a large share of the market, I also helped to design products technical as API as a product and products as a platform. In addition, I also had the opportunity to lead two development squads, made up of product people, engineers, and designers.
 
-<!--
-**laisriquieri/laisriquieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main Skills:
+• Digital Product Management
+• People/Technology Teams Management
+• Agile Project Management (SCRUM/KANBAN)
+• Java with SPRING Framework
+• NodeJS
+• PostgreSQL
+• MongoDB
+• Flutter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/laisriquieri">
+  <img src="https://github.com/laisriquieri/laisriquieri/blob/output/github-contribution-grid-snake.svg">
+</div>
